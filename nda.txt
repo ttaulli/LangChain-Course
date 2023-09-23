@@ -1,0 +1,23 @@
+﻿NON-DISCLOSURE AGREEMENT (NDA)
+
+This Agreement is made on September 14, 2023, between ABC Corp., located at 123 Main St., New York, NY, hereinafter referred to as the "Disclosing Party", and XYZ Ltd., located at 456 Elm St., Los Angeles, CA, hereinafter referred to as the "Receiving Party".
+
+Purpose: The Disclosing Party desires to disclose certain confidential information to the Receiving Party for evaluation for a potential business relationship.
+
+Definition of Confidential Information: For purposes of this Agreement, "Confidential Information" shall include all information or material that has or could have commercial value or other utility in the business in which the Disclosing Party is engaged.
+
+Obligations of Receiving Party: The Receiving Party shall hold and maintain the Confidential Information in strictest confidence for the sole and exclusive benefit of the Disclosing Party.
+
+Exclusions from Confidential Information: Receiving Party's obligations under this Agreement do not extend to information that is: (a) publicly known at the time of disclosure or subsequently becomes publicly known through no fault of the Receiving Party; (b) discovered or created by the Receiving Party before disclosure by Disclosing Party; (c) learned by the Receiving Party through legitimate means other than from the Disclosing Party or Disclosing Party's representatives; or (d) is disclosed by Receiving Party with Disclosing Party's prior written approval.
+
+Duration: The obligations of the Receiving Party shall be binding for two years from the date of disclosure of the Confidential Information.
+
+Return or Destruction of Confidential Information: Upon the Disclosing Party's request, the Receiving Party shall promptly return or destroy all copies of Confidential Information.
+
+No License: Nothing contained herein shall be construed as granting, either expressly or by implication, any license under any patent or trademark of Disclosing Party.
+
+Governing Law: This Agreement shall be governed by and construed in accordance with the laws of New York, USA.
+
+Entire Agreement: This Agreement contains the entire agreement between the parties and supersedes all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, with respect to such subject matter.
+
+Both parties represent that they have the authority to enter into this Agreement.

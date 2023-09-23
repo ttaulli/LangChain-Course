@@ -1,0 +1,21 @@
+Book,Author
+"Dune",Frank Herbert
+"Ender's Game",Orson Scott Card
+"Foundation", by Isaac Asimov
+"Neuromancer",William Gibson
+"The Left Hand of Darkness",Ursula K. Le Guin
+"Snow Crash",Neal Stephenson
+"Hyperion",Dan Simmons
+"The Stars My Destination",Alfred Bester
+"Ringworld",Larry Niven
+"Red Mars",Kim Stanley Robinson
+"The Three-Body Problem",Liu Cixin
+"Starship Troopers",Robert A. Heinlein
+"The Moon is a Harsh Mistress",Robert A. Heinlein
+"The Windup Girl",Paolo Bacigalupi
+"Altered Carbon",Richard K. Morgan
+"The Space Trilogy",C.S. Lewis
+"The Forever War",Joe Haldeman
+"Old Man's War",John Scalzi
+"A Canticle for Leibowitz",Walter M. Miller Jr.
+"Blindsight",Peter Watts

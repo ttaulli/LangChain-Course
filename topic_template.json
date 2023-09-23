@@ -1,0 +1,11 @@
+{
+    "input_variables": [
+        "topic"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "Describe {topic}",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
