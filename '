@@ -1,0 +1,28 @@
+[main 0a5dda6] 'version
+ 26 files changed, 5996 insertions(+)
+ create mode 100644 1 - FirstProgram.ipynb
+ create mode 100644 10 - Chat Demo.ipynb
+ create mode 100644 11 - LLMChain.ipynb
+ create mode 100644 12 - SimpleSequentialChain.ipynb
+ create mode 100644 13 - SequentialChain.ipynb
+ create mode 100644 14 - LLMRouterChain.ipynb
+ create mode 100644 15 - LLMMathChain.ipynb
+ create mode 100644 16 - TransformChain.ipynb
+ create mode 100644 17 - Zero-Shot ReAct Agent.ipynb
+ create mode 100644 18 - Custom Tools and Conversation Agents.ipynb
+ create mode 100644 19 - Document Loaders and Integrations.ipynb
+ create mode 100644 2 - Tiktoken Library.ipynb
+ create mode 100644 3 - Multi-Model App.ipynb
+ create mode 100644 4 - PromptTemplate.ipynb
+ create mode 100644 5 - Output Parser.ipynb
+ create mode 100644 6 - Serialization.ipynb
+ create mode 100644 7 - Tweet Creator Demo.ipynb
+ create mode 100644 8 - Stateless LLM.ipynb
+ create mode 100644 9 - Memory.ipynb
+ create mode 100644 nda.txt
+ create mode 100644 science_fiction.txt
+ create mode 100644 simple.html
+ create mode 100644 simple.pdf
+ create mode 100644 state_of_the_union.txt
+ create mode 100644 topic_template.json
+ create mode 100644 welcome_letter.pdf
